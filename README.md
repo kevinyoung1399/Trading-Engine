@@ -6,7 +6,5 @@
 - [Finance News pre-trained Roberta model](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)
 - [OpenAI GPT](https://chat.openai.com/)
 - [Yahoo Finance API](https://developer.yahoo.com/api/)
-- Coded in Python
-
 
 Note: This is not intented for actual use in the market. Code was only ever tested with paper trading. Project development was for learning/hobbying reasons only.
