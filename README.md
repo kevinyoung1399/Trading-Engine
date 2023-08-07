@@ -1,7 +1,7 @@
 # Trading-Engine - with Machine Learning and Traditional Strategies
 
 ### Technologies/Tools Used
-- [Alpaca API](https://alpaca.markets/) and a free trial of their paper trading account: 
+- [Alpaca API](https://alpaca.markets/) and a free trial of their paper trading account:
 - Developer account of [NewsAPI](https://newsapi.org/)
 - [Finance News pre-trained Roberta model](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)
 - [OpenAI GPT](https://chat.openai.com/)
