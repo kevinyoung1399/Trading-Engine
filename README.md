@@ -5,7 +5,7 @@
 - Developer account of [NewsAPI](https://newsapi.org/)
 - [Finance News pre-trained Roberta model](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)
 - [OpenAI GPT](https://chat.openai.com/)
-- [Yahoo Finance] API(https://developer.yahoo.com/api/)
+- [Yahoo Finance API](https://developer.yahoo.com/api/)
 - Coded in Python
 
 
